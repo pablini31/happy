@@ -1,0 +1,2 @@
+Plantilla Prompt 3: Diseño de Reportes y Análisis CRM
+"Genera diseño de pantalla móvil para módulo de reportes y análisis de CRM. Debe incluir gráficos simples (barras, líneas), indicadores clave de rendimiento (KPI) en tarjetas, filtros para fechas y tipos de reportes. Estilo moderno, colores neutros con resaltados para métricas importantes. Facilitar interpretación rápida y decisiones estratégicas."

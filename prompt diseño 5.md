@@ -1,0 +1,2 @@
+Plantilla Prompt 5: Diseño de Navegación y Menú Principal
+"Genera diseño para menú de navegación principal de una app CRM móvil, con iconos para módulos: Gestión Clientes, WhatsApp, Reportes, Blockchain, Configuración. Debe ser accesible con una barra inferior o lateral fácil de usar y con retroalimentación visual clara al seleccionar opciones."

@@ -1,0 +1,2 @@
+Plantilla Prompt 1: Diseño Pantalla Principal CRM Centralizado
+"Genera un diseño moderno y limpio de pantalla principal para una app móvil CRM que centraliza información del cliente. Incluye un dashboard con resumen de datos clave: detalles del cliente (nombre, teléfono, dirección), historial de pedidos, facturas recientes y notas. Usa colores corporativos suaves, tipografía legible y diseño intuitivo para fácil navegación."
